@@ -1,1 +1,1 @@
-sapo
+print("Sapo")
